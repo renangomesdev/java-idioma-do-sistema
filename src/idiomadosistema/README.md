@@ -1,0 +1,1 @@
+Um programa simples em Java que exibe o idioma padrão configurado no sistema operacional.
